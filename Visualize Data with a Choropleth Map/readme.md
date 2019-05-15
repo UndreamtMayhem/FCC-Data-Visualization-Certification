@@ -6,6 +6,8 @@
 - d3-scale-chromatic
 - d3
 
+## User Stories 
+
 ### User Story #1: 
 - My choropleth should have a title with a corresponding id="title".
 ### User Story #2: 

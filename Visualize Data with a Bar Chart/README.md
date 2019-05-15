@@ -3,6 +3,7 @@
 ## Tools
 - jquery
 - d3
+## User Stories 
 
 ### User Story #1: 
 - My chart should have a title with a corresponding id="title".

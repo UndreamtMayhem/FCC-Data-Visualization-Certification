@@ -6,6 +6,7 @@
 - babel
 - js docs
 
+## User Stories 
 
 ### User Story #1: 
 - My tree map should have a title with a corresponding id="title".

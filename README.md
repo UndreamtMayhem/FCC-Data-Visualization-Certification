@@ -1,7 +1,6 @@
 # FCC-Data-Visualization-Certification
 
 
-
 ## Overview
 - Visualize Data with a Bar Chart
 - Visualize Data with a Scatterplot Graph

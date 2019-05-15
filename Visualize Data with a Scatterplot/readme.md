@@ -4,6 +4,8 @@
 - jquery
 - d3
 
+## User Stories 
+
 ### User Story #1: 
 -  I can see a title element that has a corresponding id="title".
 ### User Story #2: 
