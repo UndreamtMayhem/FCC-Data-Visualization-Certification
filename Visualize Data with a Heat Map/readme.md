@@ -1,4 +1,4 @@
-# Visualize Data with a Bar Chart: User Story
+# Visualize Data with a Heat Map: User Story
 
 ## Tools
 - jquery
