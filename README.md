@@ -29,3 +29,11 @@
 - https://codepen.io/undreamtmayhem/pen/xNEomo
 
 ## Legacy Projects
+
+### Show National Contiguity With A Force Directed Graph
+![https://codepen.io/undreamtmayhem/full/aVvKma/](https://github.com/UndreamtMayhem/FCC-Data-Visualization-Certification/blob/master/Legacy%20Projects/Visualize%20Data%20with%20a%20Force%20Directed%20Graph/site.PNG)
+- https://codepen.io/undreamtmayhem/full/aVvKma/
+
+### Map Data Across The Globe
+![https://codepen.io/undreamtmayhem/pen/oojpxp](https://github.com/UndreamtMayhem/FCC-Data-Visualization-Certification/blob/master/Legacy%20Projects/Visualize%20Data%20with%20a%20Geo%20Map/site.PNG)
+- https://codepen.io/undreamtmayhem/pen/oojpxp
